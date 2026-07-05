@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "friendscraft-TX3W.aternos.me",
-    "port": 61526,
+    "port": "61526",
     "version": "",
     "try-creative": false
   },
